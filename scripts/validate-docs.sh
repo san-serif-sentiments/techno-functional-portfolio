@@ -27,31 +27,15 @@ fail_count=0
 while IFS= read -r -d '' file; do
   echo "🔎 Inspecting: $file"
 
-<<<<<<< HEAD
   filename=$(basename "$file")
   if [[ "$filename" == "README.md" || "$filename" == "AGENTS.md" ]]; then
     echo "ℹ️  Skipping policy-exempt file: $filename"
-=======
-  # Skip exempted files
-  if [[ "$file" == *AGENTS.md ]]; then
-    echo "ℹ️  Skipping AGENTS.md file"
->>>>>>> f7656bc37037150e6c54a2186a8db1985de6738e
-    continue
-  fi
-  if [[ "$file" == *README.md ]]; then
-    echo "ℹ️  Skipping README.md file"
     continue
   fi
 
-<<<<<<< HEAD
   # Check presence of both --- delimiters
   if ! awk '/^---/{f++} END{exit f<2}' "$file"; then
     echo "❌ $file is missing or has incomplete YAML frontmatter block"
-=======
-  # Check YAML frontmatter block (start and end)
-  if ! awk '/^---/{f++} END{exit f<2}' "$file"; then
-    echo "❌ $file does not have a complete YAML frontmatter block"
->>>>>>> f7656bc37037150e6c54a2186a8db1985de6738e
     ((fail_count++))
     continue
   fi
@@ -59,11 +43,7 @@ while IFS= read -r -d '' file; do
   # Check all required fields
   for field in "${REQUIRED_FIELDS[@]}"; do
     if ! grep -E "^\s*$field\s*:" "$file" | grep -v '^#' &>/dev/null; then
-<<<<<<< HEAD
       echo "❌ $file is missing required frontmatter field: $field"
-=======
-      echo "❌ $file is missing required field: $field"
->>>>>>> f7656bc37037150e6c54a2186a8db1985de6738e
       ((fail_count++))
     fi
   done

@@ -61,7 +61,7 @@ To proceed with installation, users are advised to verify system prerequisites p
 
 
 ```markdown
-Before you install, check if your system meets the requirements.  
+Before you install, check if your system meets the requirements.
 It takes 30 seconds and saves frustration later.
 ```
 
@@ -156,15 +156,15 @@ Your doc should feel like a conversation with chapters—not a cluttered note.
 ## 1. Setup
 
 
-### Generate a Token  
+### Generate a Token
 
 Explain what it does and why it’s needed.
 
-### Log In  
+### Log In
 
 Describe what users should expect.
 
-## 2. Using the Interface  
+## 2. Using the Interface
 
 Quick intro before listing features.
 ```
@@ -284,7 +284,7 @@ tool --version
 
 ---
 
-> ✅ Structure isn’t just for looks. It tells the reader:  
+> ✅ Structure isn’t just for looks. It tells the reader:
 > “You’re in good hands. Keep going.”
 
 ---
@@ -292,15 +292,15 @@ tool --version
 ###  Use whitespace like punctuation
 
 
-- One thought = one paragraph  
-- Use bullets or tables instead of dense text  
+- One thought = one paragraph
+- Use bullets or tables instead of dense text
 - Group related content with clear spacing
 
 > If it looks dense, it reads dense.
 
 ---
 
-## 4. Emphasis Rules  
+## 4. Emphasis Rules
 
 _Use emphasis to guide—not distract._
 
@@ -325,7 +325,7 @@ Use `**bold**` and `*italic*` intentionally. Don’t shout. Don’t decorate.
 
 
 ```markdown
-Click the **Final** button at the end of the page.  
+Click the **Final** button at the end of the page.
 This step completes the setup.
 ```
 
@@ -425,15 +425,15 @@ Use these reusable layouts to speed up writing and bring consistency across docs
 
 > What this guide helps you do in under 5 minutes.
 
-### Step 1: Install XYZ  
+### Step 1: Install XYZ
 
 Brief one-line description.
 
-### Step 2: Configure XYZ  
+### Step 2: Configure XYZ
 
 Break it into 2–3 bullets if needed.
 
-### Step 3: Verify  
+### Step 3: Verify
 
 Show how success looks.
 ```
@@ -449,8 +449,8 @@ Show how success looks.
 
 > What this does and why it’s useful.
 
-1. Step 1  
-2. Step 2  
+1. Step 1
+2. Step 2
 3. Step 3
 
 ✅ Result: What the user should see or achieve.
@@ -467,8 +467,8 @@ Show how success looks.
 
 > Short, calm, non-salesy definition
 
-- Why it matters  
-- Where it fits in  
+- Why it matters
+- Where it fits in
 - When to use it
 ```
 
@@ -749,7 +749,7 @@ It starts with writing that’s clear, culture-neutral, and easy to adapt.
 
 
 ```markdown
-You’ve nailed it—time to kick things off! 🎉  
+You’ve nailed it—time to kick things off! 🎉
 Click “Go” and let’s roll!
 ```
 
@@ -757,7 +757,7 @@ Click “Go” and let’s roll!
 
 
 ```markdown
-You're ready to begin.  
+You're ready to begin.
 Click **Go** to start the process.
 ```
 
@@ -773,7 +773,7 @@ When writing text that will include dynamic values (e.g., usernames, file paths)
 ✅ Use:
 
 ```markdown
-Welcome, `{username}`.  
+Welcome, `{username}`.
 Your report is saved to `{filepath}`.
 ```
 
@@ -1234,8 +1234,8 @@ Use **numbered lists** when:
 * Steps must be followed in a specific sequence
 
 ```markdown
-1. Download the installer  
-2. Run the setup wizard  
+1. Download the installer
+2. Run the setup wizard
 3. Verify your installation
 ```
 
@@ -1262,9 +1262,9 @@ Run the dev server after that
 ✅ Fix:
 
 ```markdown
-- Clone the repo  
-- Install dependencies  
-- Run the dev server  
+- Clone the repo
+- Install dependencies
+- Run the dev server
 - Open the browser
 ```
 
@@ -1281,8 +1281,8 @@ Run the dev server after that
 
 ```markdown
 - Check your environment:
-  - Node.js installed  
-  - Python path set  
+  - Node.js installed
+  - Python path set
   - Git configured
 ```
 
@@ -1292,16 +1292,16 @@ Run the dev server after that
 
 
 ```markdown
-- Creates the token  
-- Deleting the cache  
+- Creates the token
+- Deleting the cache
 - Used for session management
 ```
 
 ✅ Fix (same tense):
 
 ```markdown
-- Create the token  
-- Delete the cache  
+- Create the token
+- Delete the cache
 - Manage session data
 ```
 
@@ -1347,8 +1347,8 @@ Use a **table** when:
 ### To set up:
 
 
-1. Go to the [download page](#)  
-2. Download the installer  
+1. Go to the [download page](#)
+2. Download the installer
 3. Run the installer and follow prompts
 ```
 
@@ -1360,11 +1360,11 @@ Use a **table** when:
 Think in **building blocks**:
 
 ```markdown
-## Heading  
+## Heading
 
-> Intro sentence (optional)  
-- List or short paragraph  
-- Optional tip or callout  
+> Intro sentence (optional)
+- List or short paragraph
+- Optional tip or callout
 ```
 
 Don’t:
@@ -1568,8 +1568,8 @@ git commit -m "docs: clarify setup steps in quickstart guide"
 
 
 ```markdown
-- Fixed some stuff  
-- Added docs  
+- Fixed some stuff
+- Added docs
 - Changed things around
 ```
 
@@ -1600,7 +1600,7 @@ Step 1: Install the CLI...
 ✅ Instead:
 
 ```markdown
-## Setup Guide  
+## Setup Guide
 
 _Last updated: May 21, 2025_
 ```
@@ -2019,7 +2019,7 @@ Don’t just delete it. Deprecate with dignity.
 1.  Add a banner to the top of the doc:
 
     ```markdown
-    > ⚠️ **Deprecated:** This guide is outdated as of April 2024.  
+    > ⚠️ **Deprecated:** This guide is outdated as of April 2024.
     > For the latest setup, [see the updated OAuth guide](./oauth-v2.md).
     ```
 2. Move to `/archive/` or clearly label with `[DEPRECATED]` in the filename
@@ -2211,8 +2211,8 @@ Now that’s **readable and reusable**.
 
 
 ```markdown
-> AI-generated: Drafted alt text for all diagrams.  
-> Human-edited: Shortened, clarified, and removed 2 inaccurate suggestions.  
+> AI-generated: Drafted alt text for all diagrams.
+> Human-edited: Shortened, clarified, and removed 2 inaccurate suggestions.
 > Final: Added context-specific screenshots and corrected link targets.
 ```
 
@@ -2220,8 +2220,8 @@ Now that’s **readable and reusable**.
 
 
 ```markdown
-> AI-generated: Wrote entire user guide.  
-> Human: Copied and pasted into main without review.  
+> AI-generated: Wrote entire user guide.
+> Human: Copied and pasted into main without review.
 > Result: Broken commands, fake endpoints, inconsistent tone.
 ```
 
@@ -2302,21 +2302,21 @@ This section helps you write with adaptability in mind—so your content can mov
 
 
 ```markdown
-## Section Title  
+## Section Title
 
 _1-sentence intro for context_
 
-### Step-by-step / Concept  
+### Step-by-step / Concept
 
-- Step 1: Do the thing  
-- Step 2: Verify it worked  
+- Step 1: Do the thing
+- Step 2: Verify it worked
 - Step 3: Roll back if needed
 
 > 💡 Tip: Use `--dry-run` before applying live changes.
 
 📎 Related: [Rollback docs →](./rollback.md)
 
-🎙 Voiceover version:  
+🎙 Voiceover version:
 “Let’s start by cloning the repo and checking if the setup works locally…”
 ```
 
@@ -2407,7 +2407,7 @@ Every style edit—no matter how small—should:
 
 
 ```markdown
-This PR suggests rewording the “Emphasis Rules” section to better distinguish between emphasis for emotion vs. technical commands. 
+This PR suggests rewording the “Emphasis Rules” section to better distinguish between emphasis for emotion vs. technical commands.
 
 We noticed contributors overusing `**bold**` where italics were meant to soften tone.
 
@@ -2435,7 +2435,7 @@ Issue raised in #42 and #51.
 The style guide has its own semantic version.
 
 ```markdown
-🎨 Style Guide — Version 1.2.0  
+🎨 Style Guide — Version 1.2.0
 _Last updated: May 21, 2025_
 ```
 

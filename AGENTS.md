@@ -13,20 +13,20 @@
 
 Unless overridden by a nested `AGENTS.md`, all docs must follow this high-level structure:
 
-1. Overview  
-2. Why It Matters  
-3. Audience, Scope & Personas  
-4. Prerequisites  
-5. Security, Compliance & Privacy  
-6. Tasks & Step-by-Step Instructions  
-7. Access Control & Permissions (RBAC guidelines)  
-8. Practical Examples & Templates (✅/❌)  
-9. Known Issues & Friction Points  
-10. Tips & Best Practices  
-11. Troubleshooting Guidance  
-12. Dependencies, Risks & Escalation Path  
-13. Success Metrics & Outcomes  
-14. Resources & References  
+1. Overview
+2. Why It Matters
+3. Audience, Scope & Personas
+4. Prerequisites
+5. Security, Compliance & Privacy
+6. Tasks & Step-by-Step Instructions
+7. Access Control & Permissions (RBAC guidelines)
+8. Practical Examples & Templates (✅/❌)
+9. Known Issues & Friction Points
+10. Tips & Best Practices
+11. Troubleshooting Guidance
+12. Dependencies, Risks & Escalation Path
+13. Success Metrics & Outcomes
+14. Resources & References
 15. Last Reviewed / Last Updated
 
 ## 🎯 Formatting Rules (Global)

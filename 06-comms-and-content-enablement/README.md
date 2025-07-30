@@ -21,7 +21,7 @@
 3. Publish to your intranet platform.
 
 ## Examples of Effective vs Ineffective Enablement
-✅ Clear page layout with concise instructions.  
+✅ Clear page layout with concise instructions.
 ❌ Confusing navigation and inconsistent branding.
 
 ## Known Friction Points

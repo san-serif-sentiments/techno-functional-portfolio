@@ -21,7 +21,7 @@
 3. Deploy automation through CI workflows.
 
 ## AI & Prompt Engineering Examples
-✅ Structured prompts with context.  
+✅ Structured prompts with context.
 ❌ Vague commands without target outputs.
 
 ## Known AI Issues & Mitigation
