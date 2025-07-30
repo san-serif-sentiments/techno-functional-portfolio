@@ -1,1 +1,50 @@
 # Gitignore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Python virtual environments
+.env/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Test and coverage outputs
+htmlcov/
+.coverage
+.cache/
+.pytest_cache/
+coverage.xml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node artifacts (if any)
+node_modules/
+
+# Documentation build output
+site/
+public/
+
