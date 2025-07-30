@@ -1,3 +1,11 @@
+---
+title: Gap Analysis Framework
+archetype: Explanation
+owner: "@sans-serif-sentiments/team-business-analysis"
+status: current
+last_reviewed: 2025-07-30
+---
+
 # Gap Analysis Framework
 
 ## Overview

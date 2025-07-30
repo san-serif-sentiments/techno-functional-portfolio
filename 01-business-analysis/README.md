@@ -1,3 +1,11 @@
+---
+title: Business Analysis Overview
+archetype: Reference
+owner: "@sans-serif-sentiments/team-business-analysis"
+status: current
+last_reviewed: 2025-07-30
+---
+
 # 01-Business Analysis
 
 ## Overview

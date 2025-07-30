@@ -1,5 +1,6 @@
 #!/bin/bash
 set -euo pipefail
+
 IFS=$'\n\t'
 
 echo "🛠️  Sans Serif Sentiments – Setup Script"
@@ -27,3 +28,12 @@ chmod +x ./scripts/validate-docs.sh || true
 
 echo "✅ Setup complete!"
 echo "You can now run: ./scripts/validate-docs.sh"
+=======
+
+# scripts/setup-env.sh
+# Deprecated helper that forwards to setup-environment.sh for
+# compatibility with older documentation references.
+
+DIR="$(dirname "$0")"
+"${DIR}/setup-environment.sh"
+

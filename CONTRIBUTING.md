@@ -22,9 +22,10 @@ privacy guidance defined in the root `AGENTS.md`.
 
 ## Tasks & Step-by-Step Instructions
 1. Fork the repository and create a feature branch.
-2. Make your changes while adhering to documentation standards.
-3. Run markdownlint if available and note any issues.
-4. Open a pull request describing your changes and referencing related issues.
+2. Run `scripts/setup-environment.sh` to install markdownlint-cli2 and other tools.
+3. Make your changes while adhering to documentation standards.
+4. Run markdownlint if available and note any issues.
+5. Open a pull request describing your changes and referencing related issues.
 
 ## Access Control & Permissions (RBAC guidelines)
 Only maintainers may merge pull requests. Contributors need approval via the

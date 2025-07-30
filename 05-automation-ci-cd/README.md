@@ -16,7 +16,7 @@
 - Store secrets in encrypted variables and audit access.
 
 ## Step-by-Step Automation Tasks
-1. Run `scripts/setup-env.sh` to install tools.
+1. Run `scripts/setup-environment.sh` to install tools.
 2. Commit changes and push to trigger CI.
 3. Review build results in GitHub Actions.
 
@@ -24,7 +24,7 @@
 - See `.github/workflows/ci-build.yml` for a minimal build job.
 
 ## Known Automation Issues & Mitigation
-- Missing dependencies cause build failures; run `setup-env.sh` first.
+- Missing dependencies cause build failures; run `setup-environment.sh` first.
 
 ## Automation Best Practices
 - Keep workflows simple and version-controlled.
