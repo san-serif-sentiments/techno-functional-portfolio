@@ -102,9 +102,14 @@ Before deploying these templates:
 ### ✅ Scorecard Snippet
 
 ```markdown
-| Readiness Dimension         | Team/Group       | Readiness Rating | Supporting Notes                                   |
-|----------------------------|------------------|------------------|----------------------------------------------------|
-| Awareness & Understanding  | Sales            | Medium (65%)     | Confusion about rollout timelines and impact scope |
+| Readiness Dimension         | Team/Group           | Readiness Rating | Supporting Notes                                                              |
+|----------------------------|----------------------|------------------|-------------------------------------------------------------------------------|
+| Awareness & Understanding  | Sales                | Medium (65%)     | Some confusion on rollout date and affected tools                            |
+| Leadership Sponsorship     | Product Leadership   | High (85%)       | Consistent weekly updates in leadership syncs                                |
+| Capacity & Resources       | Customer Success     | Low (40%)        | No backup coverage for training time; bandwidth overload flagged             |
+| Willingness & Motivation   | HR                   | Medium (60%)     | High willingness, but unclear on what's expected post-launch                 |
+| Cultural Alignment         | Engineering          | High (90%)       | Team used to agile rollouts; positive sentiment observed                     |
+| Past Change Experience     | Operations           | Low (35%)        | Negative history with ERP migration; team skeptical about promises made      |
 ````
 
 ### ❌ Poor Practice
@@ -155,12 +160,34 @@ Before deploying these templates:
 
 ## Informal Check-In (Slack/Email)
 
+A quick message.
+
 ```markdown
 📢 Quick Readiness Check-In – [Project Name]  
 1–5: How ready are you feeling today?  
 What's one thing that would help most?  
 Any blockers or confusion?  
-DM me or reply here—thanks!  
+DM me or reply here—thanks!
+```
+
+Use this informal check-in message to prompt feedback from medium-impact stakeholder groups (Tier 2 or 3).
+```markdown
+📢 Change Readiness Check-In – [Project Name]
+
+Hi [Team Name],
+
+We’re doing a quick pulse check to better understand how ready each group feels about the upcoming [change]. Your honest input helps us tailor support and make this smoother for everyone.
+
+If you have 2 minutes, please respond to these:
+
+- 1–5: How ready do you feel right now?
+- What’s the one thing that would help you feel more confident?
+- Any blockers we should know about?
+
+Reply here or DM me—whichever is easier.
+
+Thanks,
+[Your Name] | [Role]
 ```
 
 ---
