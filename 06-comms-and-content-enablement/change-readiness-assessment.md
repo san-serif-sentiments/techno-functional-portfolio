@@ -6,6 +6,7 @@ version: v1.1
 maintainer: Shailesh Rawat (PoeticMayhem)
 last_updated: 2025-07-30
 tags: [change-management, readiness-assessment, internal-communications, templates]
+
 ---
 
 # Change Readiness Assessment Snippets and Templates
