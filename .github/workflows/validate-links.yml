@@ -1,0 +1,14 @@
+name: Validate Links
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --no-progress '**/*.md'
