@@ -6,6 +6,5 @@ IFS=$'\n\t'
 # Install required tooling for documentation validation.
 
 echo "📦 Installing markdownlint-cli2..."
-npm install -g markdownlint-cli2
-
+npm install --no-audit --no-fund --save-dev markdownlint-cli2
 echo "✅ Environment setup complete."
