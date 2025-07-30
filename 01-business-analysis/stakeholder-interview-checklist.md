@@ -1,3 +1,11 @@
+---
+title: Stakeholder Interview Checklist
+archetype: How-To
+owner: "@sans-serif-sentiments/team-business-analysis"
+status: current
+last_reviewed: 2025-07-30
+---
+
 # Stakeholder Interview Checklist
 
 ## Overview
