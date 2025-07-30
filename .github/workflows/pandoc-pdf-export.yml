@@ -1,0 +1,19 @@
+name: Pandoc PDF Export
+on:
+  workflow_dispatch:
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
+      - name: Generate PDFs
+        run: |
+          find tech-writer-portfolio -name '*.md' -print0 | while IFS= read -r -d '' file; do
+            pandoc "$file" -o "${file%.md}.pdf"
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: documentation-pdfs
+          path: '**/*.pdf'
