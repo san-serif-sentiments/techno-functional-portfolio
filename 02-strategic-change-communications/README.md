@@ -40,5 +40,5 @@
 - Style guide, channel matrix, contact list.
 
 ## Last Updated
-- July 2025
+2025-07-30
 

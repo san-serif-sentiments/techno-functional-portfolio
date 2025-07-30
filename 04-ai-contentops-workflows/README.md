@@ -40,5 +40,5 @@
 - OpenAI API docs, LangChain examples.
 
 ## Last Updated
-- July 2025
+2025-07-30
 
