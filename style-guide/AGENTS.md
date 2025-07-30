@@ -140,6 +140,14 @@ An explanation provides background and context. It builds understanding.
 
 -----
 
+### Enhance your markdown output to follow the following UX rules:
+- Use markdown tables wherever roles, outcomes, or comparisons exist
+- Include ✅/❌ do/don’t lists where applicable
+- Use code blocks for all reusable templates or formatting examples
+- Add visual callouts using markdown blockquotes and emoji for Note, Tip, Warning
+- Keep all content modular and scannable — no long paragraphs or unstructured prose
+- Strictly follow the 15-part documentation structure from AGENTS.md
+
 ## 🎨 5. Visuals & Media
 
 ### Screenshots
