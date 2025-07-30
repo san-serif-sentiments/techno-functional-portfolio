@@ -1,6 +1,8 @@
-# Shailesh Rawat — Techno-Functional Portfolio
+# README
 
-> **[Thinker. Solver. Enabler.]**  
+## Shailesh Rawat — Techno-Functional Portfolio
+
+> **[Thinker. Solver. Enabler.]**
 > "Curiosity asks, common sense simplifies, comprehension refines, and communication connects."
 
 ---
@@ -21,13 +23,13 @@ My goal isn't just introducing new strategies, tools, or processes—it's ensuri
 
 This repository explicitly demonstrates my expertise clearly targeted at:
 
-- Techno-Functional Business Analyst  
-- Technical Product Management  
-- Strategic Communications & Enterprise ContentOps  
-- Technical & User Documentation Specialist  
-- AI & Automation Workflow Designer  
+- Techno-Functional Business Analyst
+- Technical Product Management
+- Strategic Communications & Enterprise ContentOps
+- Technical & User Documentation Specialist
+- AI & Automation Workflow Designer
 
-Each area highlights my professional philosophy:  
+Each area highlights my professional philosophy:
 _"Content is the bait 🪤 but context is the hook 🪝."_
 
 ---
@@ -83,8 +85,8 @@ This repository uses layered documentation governance. The top-level `AGENTS.md`
 
 ## 📞 **Contact & Connect**
 
-- 📧 [shailesh.rawat1403@gmail.com](mailto:shailesh.rawat1403@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shaileshrawat1403/)  
-- 🌐 [pruningmypothos.com](https://www.pruningmypothos.com)  
+- 📧 [shailesh.rawat1403@gmail.com](mailto:shailesh.rawat1403@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shaileshrawat1403/)
+- 🌐 [pruningmypothos.com](https://www.pruningmypothos.com)
 
 _Last Reviewed & Updated: 2025-07-30_

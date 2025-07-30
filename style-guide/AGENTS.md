@@ -3,7 +3,7 @@
 
 # Sans Serif Sentiments – Documentation Content & Style Guide
 
-**Version:** 1.0  
+**Version:** 1.0
 **Last Updated:** July 30, 2025
 
 > "Content is the bait. Context is the hook. Clarity is the transformation."

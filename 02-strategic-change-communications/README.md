@@ -21,7 +21,7 @@
 3. Gather feedback and adjust messaging.
 
 ## Clear Messaging Examples & Templates
-✅ "This update simplifies your workflow."  
+✅ "This update simplifies your workflow."
 ❌ "The system will change, figure it out."
 
 ## Known Communication Risks & Mitigation
