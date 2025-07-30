@@ -87,4 +87,4 @@ This repository uses layered documentation governance. The top-level `AGENTS.md`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shaileshrawat1403/)  
 - 🌐 [pruningmypothos.com](https://www.pruningmypothos.com)  
 
-_Last Reviewed & Updated: 30 July 2025_
+_Last Reviewed & Updated: 2025-07-30_
