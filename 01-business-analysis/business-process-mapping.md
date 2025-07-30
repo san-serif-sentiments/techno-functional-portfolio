@@ -7,7 +7,8 @@ version: v1.0
 maintainer: Shailesh Rawat (PoeticMayhem)
 last\_updated: 2025-07-30
 tags: \[gap-analysis, business-strategy, process-improvement, change-management]
---------------------------------------------------------------------------------
+
+---
 
 # Gap Analysis Framework
 
