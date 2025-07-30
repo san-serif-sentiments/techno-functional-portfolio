@@ -1,0 +1,15 @@
+name: Codespell Check
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/*.yml'
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: codespell-project/actions-codespell@v2
+        with:
+          check_filenames: true
+          skip: ./.git
