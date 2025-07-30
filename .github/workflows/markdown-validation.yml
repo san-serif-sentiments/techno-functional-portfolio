@@ -1,10 +1,16 @@
-# Workflow: markdown-validation.yml
+# .github/workflows/markdown-validation.yml
+
 name: Markdown Lint
 
 on:
   pull_request:
     paths:
       - '**/*.md'
+  push:
+    branches:
+      - main
+      - docs
+      - content
 
 permissions:
   contents: read
@@ -13,12 +19,16 @@ jobs:
   markdownlint:
     name: Lint Markdown Files
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: 📥 Checkout code
         uses: actions/checkout@v3
 
-      - name: Install markdownlint-cli2
+      - name: 🛠️ Set script permissions
+        run: chmod +x ./scripts/validate-docs.sh
+
+      - name: 📦 Install markdownlint-cli2
         run: npm install -g markdownlint-cli2
 
-      - name: Run markdown validation
+      - name: 🧪 Run validation script
         run: ./scripts/validate-docs.sh
