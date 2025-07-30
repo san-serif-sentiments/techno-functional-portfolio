@@ -13,6 +13,8 @@
 
 Unless overridden by a nested `AGENTS.md`, all docs must follow this high-level structure:
 
+Always begin with a YAML frontmatter that includes: `title`, `archetype`, `status`, `owner`, `maintainer`, `version`, `tags`, `last_reviewed`.
+
 1. Overview
 2. Why It Matters
 3. Audience, Scope & Personas
@@ -28,6 +30,7 @@ Unless overridden by a nested `AGENTS.md`, all docs must follow this high-level 
 13. Success Metrics & Outcomes
 14. Resources & References
 15. Last Reviewed / Last Updated
+    Date: (current dtae) Maintainer: Shailesh Rawat (PoeticMayhem) Status: Stable – Version 1.0
 
 ## 🎯 Formatting Rules (Global)
 
@@ -35,6 +38,14 @@ Unless overridden by a nested `AGENTS.md`, all docs must follow this high-level 
 - Explicitly formatted examples (✅/❌) for readability
 - Explicit placeholders for visual elements (images, diagrams)
 - Avoid long paragraphs; clearly prefer bulleted lists or tables
+
+### Enhance your markdown output to follow the following UX rules:
+- Use markdown tables wherever roles, outcomes, or comparisons exist
+- Include ✅/❌ do/don’t lists where applicable
+- Use code blocks for all reusable templates or formatting examples
+- Add visual callouts using markdown blockquotes and emoji for Note, Tip, Warning
+- Keep all content modular and scannable — no long paragraphs or unstructured prose
+- Strictly follow the 15-part documentation structure from AGENTS.md
 
 ## 🔐 Global Security & Compliance Guidelines
 
