@@ -1,0 +1,26 @@
+{
+  "name": "my-github-org",
+  "version": "1.0.0",
+  "description": "> **[Thinker. Solver. Enabler.]**   > \"Curiosity asks, common sense simplifies, comprehension refines, and communication connects.\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san-serif-sentiments/techno-functional-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/san-serif-sentiments/techno-functional-portfolio/issues"
+  },
+  "homepage": "https://github.com/san-serif-sentiments/techno-functional-portfolio#readme",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.18.1"
+  }
+}
