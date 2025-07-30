@@ -1,1 +1,5 @@
 # CODEOWNERS
+# Specify repository maintainers for automated review assignments
+
+*       @repo-maintainers
+/docs/  @documentation-team
