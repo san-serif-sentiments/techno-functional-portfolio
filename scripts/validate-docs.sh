@@ -27,21 +27,25 @@ fail_count=0
 while IFS= read -r -d '' file; do
   echo "🔎 Checking: $file"
 
-  # Only check markdown files (skip AGENTS.md or README.md if exempted later)
+  # Skip exempted files
   if [[ "$file" == *AGENTS.md ]]; then
     echo "ℹ️  Skipping AGENTS.md file"
     continue
   fi
+  if [[ "$file" == *README.md ]]; then
+    echo "ℹ️  Skipping README.md file"
+    continue
+  fi
 
-  # Check for frontmatter block
-  if ! grep -q "^---" "$file"; then
-    echo "❌ $file is missing YAML frontmatter block"
+  # Check YAML frontmatter block (start and end)
+  if ! awk '/^---/{f++} END{exit f<2}' "$file"; then
+    echo "❌ $file does not have a complete YAML frontmatter block"
     ((fail_count++))
     continue
   fi
 
   for field in "${REQUIRED_FIELDS[@]}"; do
-    if ! grep -q "^$field:" "$file"; then
+    if ! grep -E "^\s*$field\s*:" "$file" | grep -v '^#' &>/dev/null; then
       echo "❌ $file is missing required field: $field"
       ((fail_count++))
     fi
