@@ -8,3 +8,5 @@
 - Clearly document each workflow's purpose, triggers, and security controls.
 - Keep examples concise with shell or YAML snippets.
 - Review workflows quarterly or after significant pipeline changes.
+=======
+

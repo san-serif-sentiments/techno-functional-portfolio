@@ -97,11 +97,3 @@ Unless overridden by a nested `AGENTS.md`, all docs must follow this high-level 
 - Clearly articulates the relationship between top-level rules and nested exceptions.
 
 ---
-
-## 📌 **Next Steps (immediate action items):**
-
-- ✅ Place this clearly defined **top-level AGENTS.md** in your repo root directory.
-- ✅ Ensure clearly that nested AGENTS.md files follow the explicitly defined hierarchy rules.
-- ✅ Clearly document this hierarchy in your top-level README.
-
-Don't fill any other doc as of now. (apart from readme)
