@@ -60,6 +60,7 @@ Quick to adopt new tools, clearly aligned with technical and cross-functional te
 All files and content strictly comply with clear enterprise documentation standards outlined in our top-level and nested `AGENTS.md` files, explicitly aligned with Microsoft and Google Developer Documentation best practices.
 
 > See the [Top-Level AGENTS.md](AGENTS.md) for detailed guidelines.
+
 ## 🏷️ **AGENTS Hierarchy**
 
 This repository uses layered documentation governance. The top-level `AGENTS.md` sets global standards for style, security, and commit practices. Each major directory contains its own `AGENTS.md` that refines those rules:
@@ -69,6 +70,7 @@ This repository uses layered documentation governance. The top-level `AGENTS.md`
 - **03-technical-communication-documentation** – Technical Documentation best practices
 - **04-ai-contentops-workflows** – AI & ContentOps workflow guidance
 - **05-automation-ci-cd** – CI/CD Automation standards
+
 ---
 
 ## 🛟 **Getting Started (For Recruiters & Hiring Managers)**

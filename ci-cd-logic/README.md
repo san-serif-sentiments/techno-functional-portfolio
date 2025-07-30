@@ -8,3 +8,5 @@ This section contains workflow examples for building and deploying documentation
 - `github-actions-patterns.md` lists reusable workflow snippets.
 
 Review each file for specific YAML configurations.
+---
+
