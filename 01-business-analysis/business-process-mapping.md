@@ -1,3 +1,11 @@
+---
+title: Business Process Mapping
+archetype: How-To
+owner: "@sans-serif-sentiments/team-business-analysis"
+status: current
+last_reviewed: 2025-07-30
+---
+
 # Business Process Mapping
 
 ## Overview
