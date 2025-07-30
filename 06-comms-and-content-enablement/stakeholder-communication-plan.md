@@ -6,6 +6,7 @@ version: v1.0
 maintainer: Shailesh Rawat (PoeticMayhem)
 last_updated: 2025-07-30
 tags: [stakeholder-mapping, change-communication, internal-comms, engagement-plan]
+
 ---
 
 # Stakeholder Communication Plan
