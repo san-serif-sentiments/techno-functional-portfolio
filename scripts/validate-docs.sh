@@ -15,7 +15,7 @@ if ! [ -f "node_modules/.bin/markdownlint-cli2" ]; then
   exit 1
 fi
 
-# Step 2: Run markdownlint using npx
+# Step 2: Run markdownlint using npx (respects patterns in .markdownlintignore)
 echo "✅ Running markdownlint-cli2 (local)..."
 npx markdownlint-cli2 "**/*.md" --config "$CONFIG_FILE"
 
