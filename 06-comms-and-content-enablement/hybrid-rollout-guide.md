@@ -136,7 +136,7 @@ Not included: performance reviews, tax compliance, or legal jurisdictional guida
 📌 **Hybrid Policy: Flexible**
 
 Employees may work from home up to 3 days/week. Each team defines a fixed collaboration day in-office. Productivity will be measured by deliverables, not time logged. Remote setups must comply with IT standards.
-````
+```
 
 ### ❌ vs ✅ Hybrid Meeting Behavior
 
@@ -162,12 +162,12 @@ Employees may work from home up to 3 days/week. Each team defines a fixed collab
 
 ## Tips & Best Practices
 
-* Anchor rollout in **flexibility, equity, and clarity**
-* Share leadership hybrid schedules to set tone
-* Provide an “opt-in” grace period to reduce fear
-* Track both **tool usage** and **employee feedback**
-* Normalize **asynchronous workflows** (not just hybrid meetings)
-* Reinforce “one company, multiple locations” in culture decks
+- Anchor rollout in **flexibility, equity, and clarity**
+- Share leadership hybrid schedules to set tone
+- Provide an “opt-in” grace period to reduce fear
+- Track both **tool usage** and **employee feedback**
+- Normalize **asynchronous workflows** (not just hybrid meetings)
+- Reinforce “one company, multiple locations” in culture decks
 
 ---
 
@@ -186,10 +186,10 @@ Employees may work from home up to 3 days/week. Each team defines a fixed collab
 
 ### Dependencies
 
-* Cross-functional buy-in from HR, IT, Legal, Comms, and Finance
-* Physical space retrofits completed before launch
-* Hybrid collaboration tools deployed org-wide
-* Governance group to monitor compliance and sentiment
+- Cross-functional buy-in from HR, IT, Legal, Comms, and Finance
+- Physical space retrofits completed before launch
+- Hybrid collaboration tools deployed org-wide
+- Governance group to monitor compliance and sentiment
 
 ### Risks & Escalation
 
@@ -215,14 +215,14 @@ Employees may work from home up to 3 days/week. Each team defines a fixed collab
 
 ## Resources & References
 
-* [Communication Matrix Template](./communication-matrix-template.md)
-* [Feedback Collection Process](./feedback-collection-process.md)
-* [Policy Update Notification](../01-internal-communications/policy-update-notification.md)
-* [Internal Survey Guide](../01-internal-communications/internal-survey-guide.md)
-* [Communication Metrics Dashboard](../01-internal-communications/communication-metrics-dashboard.md)
-* [Microsoft WorkLab](https://www.microsoft.com/en-us/worklab)
-* [Google Workspace – Hybrid Resources](https://workspace.google.com/resources/hybrid-work/)
-* [HBR – The Definitive Guide to Hybrid Work](https://hbr.org/2021/05/the-definitive-guide-to-hybrid-work)
+- [Communication Matrix Template](./communication-matrix-template.md)
+- [Feedback Collection Process](./feedback-collection-process.md)
+- [Policy Update Notification](../01-internal-communications/policy-update-notification.md)
+- [Internal Survey Guide](../01-internal-communications/internal-survey-guide.md)
+- [Communication Metrics Dashboard](../01-internal-communications/communication-metrics-dashboard.md)
+- [Microsoft WorkLab](https://www.microsoft.com/en-us/worklab)
+- [Google Workspace – Hybrid Resources](https://workspace.google.com/resources/hybrid-work/)
+- [HBR – The Definitive Guide to Hybrid Work](https://hbr.org/2021/05/the-definitive-guide-to-hybrid-work)
 
 ---
 
@@ -231,4 +231,3 @@ Employees may work from home up to 3 days/week. Each team defines a fixed collab
 **Date:** 2025-07-30
 **Maintainer:** HR & People Operations / Shailesh Rawat
 **Status:** ✅ Stable | Version 1.0 – Aligned with rollout framework and RBAC integration
-

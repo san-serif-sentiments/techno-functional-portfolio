@@ -79,44 +79,54 @@ This guide applies to internal enterprise projects, digital initiatives, and sta
 ## Tasks & Step-by-Step Instructions
 
 ### 1. Identify Stakeholders
+
 - Map stakeholder influence and decision rights  
 - Confirm availability for elicitation sessions
 
 ### 2. Choose Elicitation Techniques
+
 - Use interviews, shadowing, surveys, observation, or workshops  
 - Combine qualitative and quantitative inputs
 
 ### 3. Prepare Questions
+
 - Use outcome-first prompts:  
   *✅ “What business problem are you trying to solve?”*  
   *❌ “Which feature do you want?”*
 
 ### 4. Conduct Sessions
+
 - Take structured notes  
 - Summarize and validate assumptions in-session  
 - Record with permission (if policy allows)
 
 ### 5. Analyze Findings
+
 - Cluster into themes: goals, constraints, must-haves, blockers  
 - Identify conflicts or gaps for follow-up
 
 ### 6. Document Requirements
+
 - Use consistent templates with acceptance criteria  
 - Separate functional vs non-functional requirements
 
 ### 7. Validate With Stakeholders
+
 - Share drafts for feedback  
 - Highlight unclear or high-impact items for review
 
 ### 8. Prioritize
+
 - Use scoring models (MoSCoW, Impact/Effort)  
 - Align on MVP vs later-phase features
 
 ### 9. Manage Changes
+
 - Implement change log with owner, impact, and timestamp  
 - Route major changes through signoff loop
 
 ### 10. Obtain Formal Signoff
+
 - Capture approvals via email or e-sign  
 - Lock the scope before build begins
 
@@ -142,7 +152,7 @@ This guide applies to internal enterprise projects, digital initiatives, and sta
 As an HR lead,  
 I want automated onboarding checklists,  
 So that new hires complete all setup tasks on time.
-````
+```
 
 ### ❌ Bad Requirement
 
@@ -167,17 +177,17 @@ So that new hires complete all setup tasks on time.
 
 ### ✅ Do
 
-* Paraphrase responses to confirm understanding
-* Map business goals to specific requirement IDs
-* Use visual workflows and mockups to clarify scope
-* Iterate with low-fidelity drafts before final signoff
+- Paraphrase responses to confirm understanding
+- Map business goals to specific requirement IDs
+- Use visual workflows and mockups to clarify scope
+- Iterate with low-fidelity drafts before final signoff
 
 ### ❌ Don’t
 
-* Skip validation rounds
-* Jump to features before defining the problem
-* Use only templates—context matters
-* Forget edge cases or regulatory scenarios
+- Skip validation rounds
+- Jump to features before defining the problem
+- Use only templates—context matters
+- Forget edge cases or regulatory scenarios
 
 ---
 
@@ -226,11 +236,11 @@ So that new hires complete all setup tasks on time.
 
 ## Resources & References
 
-* [BABOK v3 Summary](./babok-summary.md)
-* [Interview Question Bank](./elicitation-question-bank.md)
-* [Requirements Template](./standard-requirement-template.md)
-* [MoSCoW Prioritization Sheet](./moscow-prioritization-tool.xlsx)
-* [Validation Checklist](./stakeholder-signoff-checklist.md)
+- [BABOK v3 Summary](./babok-summary.md)
+- [Interview Question Bank](./elicitation-question-bank.md)
+- [Requirements Template](./standard-requirement-template.md)
+- [MoSCoW Prioritization Sheet](./moscow-prioritization-tool.xlsx)
+- [Validation Checklist](./stakeholder-signoff-checklist.md)
 
 ---
 

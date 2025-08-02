@@ -120,7 +120,7 @@ It does **not** replace legal risk assessments, investor disclosures, or insuran
 | Key system offline during rollout   | Technical    | High (5)   | High   | Full simulation + fallback environment       | IT Lead      | Active   |
 | Low engagement from team leads      | Operational  | Medium (3) | High   | 1:1 cascade briefing + Slack reminders       | Comms Manager| Planned  |
 | Policy ambiguity                    | Compliance   | Low (2)    | High   | Legal review + clarification comms           | Legal Team   | Resolved |
-````
+```
 
 ---
 
@@ -153,17 +153,17 @@ It does **not** replace legal risk assessments, investor disclosures, or insuran
 
 ✅ Do:
 
-* Embed risk updates into weekly standups or retrospectives
-* Use tags like `#showstopper`, `#P1`, `#cross-functional`
-* Update statuses consistently, even if nothing changed
-* Share a summary view for execs (3–5 key risks only)
+- Embed risk updates into weekly standups or retrospectives
+- Use tags like `#showstopper`, `#P1`, `#cross-functional`
+- Update statuses consistently, even if nothing changed
+- Share a summary view for execs (3–5 key risks only)
 
 ❌ Don’t:
 
-* Let vague risks stay in the log without action steps
-* Assume teams will flag blockers unless prompted
-* Wait for risks to materialize before starting conversations
-* Bury high-risk items in long documents—highlight and flag
+- Let vague risks stay in the log without action steps
+- Assume teams will flag blockers unless prompted
+- Wait for risks to materialize before starting conversations
+- Bury high-risk items in long documents—highlight and flag
 
 ---
 
@@ -213,11 +213,11 @@ It does **not** replace legal risk assessments, investor disclosures, or insuran
 
 ## Resources & References
 
-* [Change Readiness Assessment](./change-readiness-assessment.md)
-* [Executive Briefing Template](./executive-briefing-template.md)
-* [Communication Matrix Template](./communication-matrix-template.md)
-* [Feedback Collection Process](./feedback-collection-process.md)
-* [Training Materials Guide](./training-materials-guide.md)
+- [Change Readiness Assessment](./change-readiness-assessment.md)
+- [Executive Briefing Template](./executive-briefing-template.md)
+- [Communication Matrix Template](./communication-matrix-template.md)
+- [Feedback Collection Process](./feedback-collection-process.md)
+- [Training Materials Guide](./training-materials-guide.md)
 
 ---
 
@@ -226,4 +226,3 @@ It does **not** replace legal risk assessments, investor disclosures, or insuran
 **Date:** 2025-07-30
 **Maintainer:** Shailesh Rawat (PoeticMayhem)
 **Status:** ✅ Stable | Version 1.0
-

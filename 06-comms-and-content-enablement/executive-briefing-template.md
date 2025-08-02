@@ -117,7 +117,7 @@ PURPOSE: [Awareness / Decision / Escalation]
 6. Resources & References  
 - [Dashboard]  
 - [Risk Register or Link to Plan]
-````
+```
 
 ---
 
@@ -169,11 +169,11 @@ PURPOSE: [Awareness / Decision / Escalation]
 
 ## Tips & Best Practices
 
-* **Think like an executive**: What’s the decision or risk they need to see?
-* **Write tight**: Every section should be skimmable in under 10 seconds.
-* **Anticipate questions**: Include rationale and optional appendix links.
-* **Use bolding for key phrases**: e.g., “Launch Delay Risk = \$120K”
-* **Pre-brief aides when needed**: Avoid surprises in exec reviews.
+- **Think like an executive**: What’s the decision or risk they need to see?
+- **Write tight**: Every section should be skimmable in under 10 seconds.
+- **Anticipate questions**: Include rationale and optional appendix links.
+- **Use bolding for key phrases**: e.g., “Launch Delay Risk = \$120K”
+- **Pre-brief aides when needed**: Avoid surprises in exec reviews.
 
 ---
 
@@ -193,16 +193,16 @@ PURPOSE: [Awareness / Decision / Escalation]
 
 ### Dependencies
 
-* PMO for timeline and ownership confirmation
-* Internal Comms for language and formatting
-* Legal/Finance for compliance-sensitive updates
-* Data/Analytics for validated metrics
+- PMO for timeline and ownership confirmation
+- Internal Comms for language and formatting
+- Legal/Finance for compliance-sensitive updates
+- Data/Analytics for validated metrics
 
 ### Escalation Path
 
-* Unclear approvals → escalate via Chief of Staff
-* Decision delay → flag in leadership sync deck
-* Stakeholder misalignment → pre-brief or schedule 1:1 review
+- Unclear approvals → escalate via Chief of Staff
+- Decision delay → flag in leadership sync deck
+- Stakeholder misalignment → pre-brief or schedule 1:1 review
 
 ---
 
@@ -220,12 +220,12 @@ PURPOSE: [Awareness / Decision / Escalation]
 
 ## Resources & References
 
-* [Communication Matrix Template](./communication-matrix-template.md)
-* [Change Readiness Toolkit](./change-readiness-assessment.md)
-* [Internal Style Guide Snippets](../08-style-guides/writing-principles.md)
-* [Leadership Messaging Guide](./leadership-update-template.md)
-* [Barbara Minto’s Pyramid Principle](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710515)
-* [PMI Executive Communication Guide](https://www.pmi.org)
+- [Communication Matrix Template](./communication-matrix-template.md)
+- [Change Readiness Toolkit](./change-readiness-assessment.md)
+- [Internal Style Guide Snippets](../08-style-guides/writing-principles.md)
+- [Leadership Messaging Guide](./leadership-update-template.md)
+- [Barbara Minto’s Pyramid Principle](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710515)
+- [PMI Executive Communication Guide](https://www.pmi.org)
 
 ---
 

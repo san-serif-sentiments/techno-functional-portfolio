@@ -1,11 +1,13 @@
 # AGENTS.md – Enterprise Change Communications
 
 ## 📌 General Instructions
+
 - Clear, engaging, human-centric tone.
 - Use strategic storytelling to drive engagement.
 - Maintain simplicity; avoid jargon.
 
 ## 🗂️ Required Structure
+
 1. Overview (Clear rationale for communication)
 2. Importance & Organizational Context
 3. Target Audience & Personas
@@ -21,21 +23,25 @@
 13. Last Updated
 
 ## 🎯 Formatting Guidelines
+
 - Concise bullet points, clearly formatted checklists.
 - Clearly marked examples of effective communication.
 
 ## 🚩 Commit & PR Standards
+
 - Highlight strategic communication benefits clearly.
 - Explicitly document communication security adherence in PR.
 
 ## 🔐 Security & Confidentiality
+
 - Include clearly marked confidentiality and distribution instructions.
 - Adhere explicitly to enterprise data protection guidelines.
 
 ## 📊 Validation & Checks
+
 - Validate messaging clarity explicitly.
 - Confirm compliance with organizational communication standards.
 
 ## 🔄 Document Review
-- Regular quarterly reviews or aligned with organizational change cycles.
 
+- Regular quarterly reviews or aligned with organizational change cycles.

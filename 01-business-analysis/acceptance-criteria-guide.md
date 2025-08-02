@@ -87,7 +87,7 @@ This guide applies to writing and reviewing acceptance criteria for:
 Given [initial context],
 When [action taken],
 Then [expected outcome]
-````
+```
 
 Example:
 
@@ -99,25 +99,25 @@ Then I should see the 'Add User' button.
 
 ### 2. Write Plain Language Criteria
 
-* Focus on observable outcomes
-* Avoid implementation details or internal logic
-* Use bullets or numbered lists when Gherkin is not used
+- Focus on observable outcomes
+- Avoid implementation details or internal logic
+- Use bullets or numbered lists when Gherkin is not used
 
 Example:
 
-* The password reset email is sent within 2 minutes
-* Error message appears if username is missing
-* User is redirected to dashboard after login
+- The password reset email is sent within 2 minutes
+- Error message appears if username is missing
+- User is redirected to dashboard after login
 
 ### 3. Define Success Boundaries
 
-* Specify “done” vs. “incomplete” behaviors
-* Include edge cases and negative validations (e.g., failed login, API timeout)
+- Specify “done” vs. “incomplete” behaviors
+- Include edge cases and negative validations (e.g., failed login, API timeout)
 
 ### 4. Review with QA and Product Teams
 
-* Ensure all test scenarios are covered
-* Validate that each criterion is **testable, observable, and unambiguous**
+- Ensure all test scenarios are covered
+- Validate that each criterion is **testable, observable, and unambiguous**
 
 ---
 
@@ -168,17 +168,17 @@ Example:
 
 ### ✅ Do
 
-* Start criteria before development begins
-* Align with Definition of Done per team or sprint
-* Add accessibility and mobile behavior if relevant
-* Review and update criteria after stakeholder feedback
+- Start criteria before development begins
+- Align with Definition of Done per team or sprint
+- Add accessibility and mobile behavior if relevant
+- Review and update criteria after stakeholder feedback
 
 ### ❌ Don’t
 
-* Assume dev or QA will “figure it out”
-* Reuse generic acceptance criteria for every story
-* Use vague words like “intuitive” or “efficient”
-* Leave out error handling and edge behavior
+- Assume dev or QA will “figure it out”
+- Reuse generic acceptance criteria for every story
+- Use vague words like “intuitive” or “efficient”
+- Leave out error handling and edge behavior
 
 ---
 
@@ -226,10 +226,10 @@ Example:
 
 ## Resources & References
 
-* [Gherkin Syntax – cucumber.io](https://cucumber.io/docs/gherkin/)
-* [Agile Alliance – Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
-* [Internal QA Mapping Template](./qa-criteria-mapping.md)
-* [Accessibility Acceptance Guide](./ux-accessibility-criteria.md)
+- [Gherkin Syntax – cucumber.io](https://cucumber.io/docs/gherkin/)
+- [Agile Alliance – Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
+- [Internal QA Mapping Template](./qa-criteria-mapping.md)
+- [Accessibility Acceptance Guide](./ux-accessibility-criteria.md)
 
 ---
 

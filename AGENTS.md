@@ -39,7 +39,8 @@ Always begin with a YAML frontmatter that includes: `title`, `archetype`, `statu
 - Explicit placeholders for visual elements (images, diagrams)
 - Avoid long paragraphs; clearly prefer bulleted lists or tables
 
-### Enhance your markdown output to follow the following UX rules:
+### Enhance your markdown output to follow the following UX rules
+
 - Use markdown tables wherever roles, outcomes, or comparisons exist
 - Include ✅/❌ do/don’t lists where applicable
 - Use code blocks for all reusable templates or formatting examples
@@ -108,4 +109,3 @@ Always begin with a YAML frontmatter that includes: `title`, `archetype`, `statu
 - Clearly articulates the relationship between top-level rules and nested exceptions.
 
 ---
-

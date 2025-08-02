@@ -111,7 +111,7 @@ Before deploying these templates:
 | Willingness & Motivation   | HR                   | Medium (60%)     | High willingness, but unclear on what's expected post-launch                 |
 | Cultural Alignment         | Engineering          | High (90%)       | Team used to agile rollouts; positive sentiment observed                     |
 | Past Change Experience     | Operations           | Low (35%)        | Negative history with ERP migration; team skeptical about promises made      |
-````
+```
 
 ### ❌ Poor Practice
 
@@ -172,6 +172,7 @@ DM me or reply here—thanks!
 ```
 
 Use this informal check-in message to prompt feedback from medium-impact stakeholder groups (Tier 2 or 3).
+
 ```markdown
 📢 Change Readiness Check-In – [Project Name]
 
@@ -220,11 +221,11 @@ Thanks,
 
 ## Tips & Best Practices
 
-* Use consistent rating scales across all tools
-* Keep templates lightweight and editable
-* Mix methods (quant + qual) to get full picture
-* Share back insights quickly to build feedback loops
-* Create role-specific prompts (e.g., for leadership vs. delivery teams)
+- Use consistent rating scales across all tools
+- Keep templates lightweight and editable
+- Mix methods (quant + qual) to get full picture
+- Share back insights quickly to build feedback loops
+- Create role-specific prompts (e.g., for leadership vs. delivery teams)
 
 ---
 
@@ -268,11 +269,11 @@ Thanks,
 
 ## Resources & References
 
-* [Change Readiness Assessment](./change-readiness-assessment.md)
-* [Internal Survey Guide](./internal-survey-guide.md)
-* [Communication Metrics Dashboard](./communication-metrics-dashboard.md)
-* [Executive Briefing Template](./executive-briefing-template.md)
-* [Stakeholder Engagement Guide](./stakeholder-engagement-guide.md)
+- [Change Readiness Assessment](./change-readiness-assessment.md)
+- [Internal Survey Guide](./internal-survey-guide.md)
+- [Communication Metrics Dashboard](./communication-metrics-dashboard.md)
+- [Executive Briefing Template](./executive-briefing-template.md)
+- [Stakeholder Engagement Guide](./stakeholder-engagement-guide.md)
 
 ---
 

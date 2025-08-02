@@ -102,7 +102,7 @@ Use a matrix to segment stakeholders:
 | Team Leads        | Enablers       | Townhall + Slack  | Training + Milestone    | Weekly       | Change Manager   |
 | End Users         | Receivers      | Email + Dashboard | Instruction + FAQ       | As needed    | Internal Comms   |
 | Legal Team        | Validator      | Email + Docs      | Policy Brief + Risk     | Milestone    | Compliance Lead  |
-````
+```
 
 ---
 
@@ -180,17 +180,17 @@ Let us know if you have questions,
 
 ✅ Do:
 
-* Align message timing with rollout milestones
-* Use stakeholder-specific formats (dashboards for execs, videos for staff)
-* Pre-brief resistors or high-risk teams before announcements
-* Share weekly updates with visible progress indicators
+- Align message timing with rollout milestones
+- Use stakeholder-specific formats (dashboards for execs, videos for staff)
+- Pre-brief resistors or high-risk teams before announcements
+- Share weekly updates with visible progress indicators
 
 ❌ Don’t:
 
-* Assume email = communication
-* Use same message for all audiences
-* Send updates without listing action items
-* Neglect the feedback loop or stakeholder visibility
+- Assume email = communication
+- Use same message for all audiences
+- Send updates without listing action items
+- Neglect the feedback loop or stakeholder visibility
 
 ---
 
@@ -209,10 +209,10 @@ Let us know if you have questions,
 
 ### Dependencies
 
-* Stakeholder mapping and impact analysis
-* Approved messaging calendar and content
-* Channel readiness (e.g., access to Slack/email groups)
-* Clear project phase handovers
+- Stakeholder mapping and impact analysis
+- Approved messaging calendar and content
+- Channel readiness (e.g., access to Slack/email groups)
+- Clear project phase handovers
 
 ### Escalation Path
 
@@ -238,11 +238,11 @@ Let us know if you have questions,
 
 ## Resources & References
 
-* [Communication Matrix Template](./communication-matrix-template.md)
-* [Executive Briefing Template](./executive-briefing-template.md)
-* [Change Readiness Assessment Toolkit](./change-readiness-assessment.md)
-* [Feedback Collection Framework](./feedback-collection-process.md)
-* [Training Materials Guide](./training-materials-guide.md)
+- [Communication Matrix Template](./communication-matrix-template.md)
+- [Executive Briefing Template](./executive-briefing-template.md)
+- [Change Readiness Assessment Toolkit](./change-readiness-assessment.md)
+- [Feedback Collection Framework](./feedback-collection-process.md)
+- [Training Materials Guide](./training-materials-guide.md)
 
 ---
 
