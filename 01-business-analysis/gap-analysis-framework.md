@@ -24,11 +24,11 @@ Gap analysis is a structured method to compare your organization's current capab
 
 Gap analysis helps organizations:
 
-* Maximize focus on initiatives with measurable business value
-* Avoid wasted resources on low-impact activities
-* Align cross-functional teams on goals and expectations
-* Present issues as quantifiable gaps, fostering shared understanding
-* Improve budgeting, risk mitigation, and compliance tracking
+- Maximize focus on initiatives with measurable business value
+- Avoid wasted resources on low-impact activities
+- Align cross-functional teams on goals and expectations
+- Present issues as quantifiable gaps, fostering shared understanding
+- Improve budgeting, risk mitigation, and compliance tracking
 
 It moves teams from vague frustration to documented, data-backed clarity.
 
@@ -38,44 +38,44 @@ It moves teams from vague frustration to documented, data-backed clarity.
 
 ### Audience
 
-* Business Analysts, Transformation Consultants
-* Product Managers, Ops Leads
-* Executive Sponsors, Department Heads
+- Business Analysts, Transformation Consultants
+- Product Managers, Ops Leads
+- Executive Sponsors, Department Heads
 
 ### Personas
 
-* **Project Sponsor**: Approves and funds change initiatives
-* **Analyst/Consultant**: Coordinates discovery and analysis
-* **Functional Heads**: Provide insights into current workflows
-* **Compliance Officers**: Safeguard data integrity and legal boundaries
+- **Project Sponsor**: Approves and funds change initiatives
+- **Analyst/Consultant**: Coordinates discovery and analysis
+- **Functional Heads**: Provide insights into current workflows
+- **Compliance Officers**: Safeguard data integrity and legal boundaries
 
 ### Scope
 
 Applies to:
 
-* Internal process improvement
-* Strategic planning
-* Digital transformation assessments
+- Internal process improvement
+- Strategic planning
+- Digital transformation assessments
 
 ---
 
 ## Prerequisites
 
-* ✅ Baseline metrics (cycle time, error rate, etc.)
-* ✅ Documented business objectives
-* ✅ Stakeholder commitment and availability
-* ✅ Data access approvals (security, system owners)
-* ✅ Secure storage and retention plan
+- ✅ Baseline metrics (cycle time, error rate, etc.)
+- ✅ Documented business objectives
+- ✅ Stakeholder commitment and availability
+- ✅ Data access approvals (security, system owners)
+- ✅ Secure storage and retention plan
 
 ---
 
 ## Security, Compliance & Privacy
 
-* Follow **data minimization**: collect only what is required
-* Store data securely with access controls and encryption
-* Ensure all stakeholder data is anonymized if shared externally
-* Align with **GDPR**, **SOC2**, or **ISO 27001** if applicable
-* Clearly mark sensitive outputs and maintain audit trails
+- Follow **data minimization**: collect only what is required
+- Store data securely with access controls and encryption
+- Ensure all stakeholder data is anonymized if shared externally
+- Align with **GDPR**, **SOC2**, or **ISO 27001** if applicable
+- Clearly mark sensitive outputs and maintain audit trails
 
 ---
 
@@ -83,43 +83,43 @@ Applies to:
 
 ### 1. Define the Scope
 
-* Identify systems, processes, or teams in focus
-* Document boundaries, assumptions, and constraints
+- Identify systems, processes, or teams in focus
+- Document boundaries, assumptions, and constraints
 
 ### 2. Collect Current State Data
 
-* Use interviews, surveys, dashboards, and audits
-* Include qualitative (employee friction) and quantitative metrics
+- Use interviews, surveys, dashboards, and audits
+- Include qualitative (employee friction) and quantitative metrics
 
 ### 3. Describe Desired Future State
 
-* Map business goals to measurable outcomes
-* Translate abstract aims into KPIs or SLAs
+- Map business goals to measurable outcomes
+- Translate abstract aims into KPIs or SLAs
 
 ### 4. Identify and Categorize Gaps
 
-* Compare current vs. desired metrics
-* Categorize gaps: skill, tech, process, structural
+- Compare current vs. desired metrics
+- Categorize gaps: skill, tech, process, structural
 
 ### 5. Assess Root Causes
 
-* Use 5 Whys, Fishbone diagrams, or stakeholder workshops
+- Use 5 Whys, Fishbone diagrams, or stakeholder workshops
 
 ### 6. Prioritize
 
-* Score each gap: \[Impact × Effort × Risk Reduction]
+- Score each gap: \[Impact × Effort × Risk Reduction]
 
 ### 7. Develop Action Plans
 
-* Assign owners, define timelines, link to OKRs
+- Assign owners, define timelines, link to OKRs
 
 ### 8. Review & Validate
 
-* Schedule feedback sessions to align on root causes and fixes
+- Schedule feedback sessions to align on root causes and fixes
 
 ### 9. Finalize & Communicate
 
-* Create executive summaries, dashboards, and slides for stakeholders
+- Create executive summaries, dashboards, and slides for stakeholders
 
 ---
 
@@ -167,17 +167,17 @@ so that customers receive quicker resolutions.
 
 ### ✅ Do
 
-* Use visuals like heat maps to display gap clusters
-* Validate early with partial reviews
-* Categorize gaps and use scoring to prioritize
-* Include assumptions explicitly in a shared doc
+- Use visuals like heat maps to display gap clusters
+- Validate early with partial reviews
+- Categorize gaps and use scoring to prioritize
+- Include assumptions explicitly in a shared doc
 
 ### ❌ Don’t
 
-* Skip stakeholder interviews
-* Let ambiguity persist in KPI definitions
-* Assume legacy reports reflect real current state
-* Present final output without review loop
+- Skip stakeholder interviews
+- Let ambiguity persist in KPI definitions
+- Assume legacy reports reflect real current state
+- Present final output without review loop
 
 ---
 
@@ -226,11 +226,11 @@ so that customers receive quicker resolutions.
 
 ## Resources & References
 
-* [Gap Analysis Template – Spreadsheet](./gap-analysis-template.xlsx)
-* [Stakeholder Interview Guide](./stakeholder-interview-guide.md)
-* [KPI Mapping Table](./kpi-mapping-table.md)
-* [Scoring Model Reference](./impact-effort-risk-scorer.md)
-* [Visualization Tools – Guide](./gap-analysis-visual-aids.md)
+- [Gap Analysis Template – Spreadsheet](./gap-analysis-template.xlsx)
+- [Stakeholder Interview Guide](./stakeholder-interview-guide.md)
+- [KPI Mapping Table](./kpi-mapping-table.md)
+- [Scoring Model Reference](./impact-effort-risk-scorer.md)
+- [Visualization Tools – Guide](./gap-analysis-visual-aids.md)
 
 ---
 

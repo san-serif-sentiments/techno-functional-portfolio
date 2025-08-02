@@ -9,12 +9,15 @@ last_reviewed: 2025-07-30
 # Data Analysis
 
 ## Overview
+
 This project provides a framework for data analysis tasks within the Sans Serif Sentiments organization. It outlines the approach, tools, and best practices for extracting insights from raw data. The goal is to help you move from scattered datasets to actionable recommendations in a repeatable, secure manner. Whether you work with marketing data, operational metrics, or customer feedback, this guide shows you how to plan your analysis, maintain data integrity, and share results effectively.
 
 ## Why It Matters
+
 Data-driven decisions lead to better outcomes. Without a consistent approach, you risk misinterpreting trends or missing key patterns. A well-defined framework ensures that analysis is both reliable and reproducible. This project explains how to structure your work so that other teams can understand and trust your findings. Proper data analysis drives improved customer engagement, identifies operational bottlenecks, and guides strategic investments.
 
 ## Audience, Scope & Personas
+
 This guide targets data analysts, business intelligence specialists, data engineers, and managers who rely on data-driven insights. Personas include:
 
 - **Marketing Analyst** – monitors campaign performance and recommends adjustments.
@@ -25,6 +28,7 @@ This guide targets data analysts, business intelligence specialists, data engine
 The scope covers everything from data ingestion to visualization. It assumes you have basic familiarity with spreadsheets or a scripting language like Python.
 
 ## Prerequisites
+
 Before you begin analyzing data, confirm the following prerequisites:
 
 1. **Access to Data Sources** – ensure you have permission to read the relevant databases or files.
@@ -36,6 +40,7 @@ Before you begin analyzing data, confirm the following prerequisites:
 Having these prerequisites in place prevents rework and ensures your findings align with organizational objectives.
 
 ## Security, Compliance & Privacy
+
 Data analysis must respect security and privacy rules to protect proprietary and personal information. Follow these guidelines:
 
 - **Role-Based Access Control** – limit data access to authorized team members. Use your organization's identity management system to assign appropriate roles.
@@ -47,6 +52,7 @@ Data analysis must respect security and privacy rules to protect proprietary and
 Maintaining security and compliance not only protects the organization but also ensures you can share results widely without violating policies.
 
 ## Tasks & Step-by-Step Instructions
+
 The following steps outline a repeatable workflow for data analysis:
 
 1. **Define the Question** – start with a clear objective. For example, "Which marketing channels drive the most engaged leads?"
@@ -61,6 +67,7 @@ The following steps outline a repeatable workflow for data analysis:
 Consistent execution of these steps ensures your analysis process remains transparent and repeatable.
 
 ## Access Control & Permissions
+
 You should separate duties and manage permissions carefully:
 
 - **Read Access** – analysts require read-only access to production data to prevent accidental modification.
@@ -71,6 +78,7 @@ You should separate duties and manage permissions carefully:
 Clear access controls reduce the risk of unauthorized data leaks or accidental changes to core systems.
 
 ## Practical Examples & Templates (✅/❌)
+
 Below are examples of effective versus ineffective practices:
 
 ✅ **Effective:**
@@ -88,6 +96,7 @@ Below are examples of effective versus ineffective practices:
 Using these templates ensures your audience quickly grasps the meaning behind your analysis.
 
 ## Known Issues & Friction Points
+
 During data analysis, you may run into common problems:
 
 - **Inconsistent Data Formats** – different systems may store dates, currencies, or units in various formats, causing parsing errors.
@@ -99,6 +108,7 @@ During data analysis, you may run into common problems:
 Acknowledging these issues early helps you set realistic timelines and plan mitigation steps.
 
 ## Tips & Best Practices
+
 Consider these best practices for efficient analysis:
 
 - **Start with a Hypothesis** – know what you expect to find. A hypothesis guides your exploration and prevents aimless data dredging.
@@ -110,6 +120,7 @@ Consider these best practices for efficient analysis:
 Adhering to these tips improves both the quality and efficiency of your analysis work.
 
 ## Troubleshooting Guidance
+
 If you encounter errors or inconsistent results, follow these troubleshooting steps:
 
 - **Check Data Inputs** – verify that your data files or database queries returned complete datasets. Missing rows often explain unexpected results.
@@ -121,6 +132,7 @@ If you encounter errors or inconsistent results, follow these troubleshooting st
 Consistent troubleshooting steps help you recover from setbacks and maintain credibility.
 
 ## Dependencies, Risks & Escalation Path
+
 Recognize dependencies and plan for potential risks:
 
 - **Data Source Availability** – some systems may not provide reliable exports or might undergo maintenance. Schedule analysis tasks around maintenance windows.
@@ -132,6 +144,7 @@ Recognize dependencies and plan for potential risks:
 Documenting these dependencies ensures your analysis stays on schedule and maintains compliance.
 
 ## Success Metrics & Outcomes
+
 Evaluate your data analysis efforts with these metrics:
 
 - **Time to Insight** – measure how long it takes from receiving raw data to delivering actionable recommendations.
@@ -143,6 +156,7 @@ Evaluate your data analysis efforts with these metrics:
 These metrics show whether your analysis program delivers real value to the organization.
 
 ## Resources & References
+
 Use these resources to expand your skills and streamline projects:
 
 - **Internal Training Modules** – look for company-provided courses on data tools and privacy standards.
@@ -154,4 +168,5 @@ Use these resources to expand your skills and streamline projects:
 Regularly consult these references to stay current on best practices and tool updates.
 
 ## Last Reviewed / Last Updated
+
 2025-07-30

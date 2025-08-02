@@ -85,16 +85,19 @@ Before initiating the communication rollout:
 ## Tasks & Step-by-Step Instructions
 
 ### 1. Draft Unified Messaging
+
 - Clarify the intent: “What’s changing and why?”
 - Define stakeholder-specific impact statements
 - Use plain language alongside legal phrasing
 
 ### 2. Select Delivery Mechanisms
+
 - Primary: Company-wide email or leadership broadcast  
 - Secondary: Intranet update, internal Slack/Teams post, FAQ page  
 - Tertiary: Live session, async training module, manager cascade  
 
 ### 3. Execute Communication Rollout
+
 - Send official announcement with summary and link to full policy  
 - Upload latest policy to a versioned document system  
 - Add visual summaries (carousel, one-pager) for non-legal users  
@@ -102,6 +105,7 @@ Before initiating the communication rollout:
 - Share response form or comment-enabled page  
 
 ### 4. Reinforce & Monitor
+
 - Track acknowledgment via LMS or e-sign tools  
 - Collect feedback and flag unresolved queries  
 - Escalate delays in acknowledgment via manager nudge loop
@@ -138,7 +142,7 @@ We’ve updated our **Data Usage Policy** to reflect new compliance requirements
 
 Thanks,  
 Head of Compliance
-````
+```
 
 ### ❌ Bad Example: Legalese Dump
 
@@ -162,17 +166,17 @@ Head of Compliance
 
 ### ✅ Do
 
-* Localize messaging for non-native readers
-* Use visuals to aid comprehension
-* Embed call-to-actions (CTA) within the message body
-* Treat managers as change partners, not just recipients
+- Localize messaging for non-native readers
+- Use visuals to aid comprehension
+- Embed call-to-actions (CTA) within the message body
+- Treat managers as change partners, not just recipients
 
 ### ❌ Don’t
 
-* Assume one-time communication is enough
-* Use emails only—combine formats
-* Share policy PDFs without summaries or context
-* Skip feedback loops
+- Assume one-time communication is enough
+- Use emails only—combine formats
+- Share policy PDFs without summaries or context
+- Skip feedback loops
 
 ---
 
@@ -222,11 +226,11 @@ Head of Compliance
 
 ## Resources & References
 
-* [Internal Comms: Policy Rollout Template](./policy-update-notification.md)
-* [Feedback Form Template](./feedback-collection-process.md)
-* [Acknowledgment Tracker](./acknowledgment-tracker.md)
-* [Security Checklist](./security-policy-checklist.md)
-* [Change Readiness Assessment Guide](./change-readiness-assessment.md)
+- [Internal Comms: Policy Rollout Template](./policy-update-notification.md)
+- [Feedback Form Template](./feedback-collection-process.md)
+- [Acknowledgment Tracker](./acknowledgment-tracker.md)
+- [Security Checklist](./security-policy-checklist.md)
+- [Change Readiness Assessment Guide](./change-readiness-assessment.md)
 
 ---
 
@@ -238,4 +242,3 @@ Head of Compliance
 **Status:** ✅ Stable
 
 ---
-

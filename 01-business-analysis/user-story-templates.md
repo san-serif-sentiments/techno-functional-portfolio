@@ -76,7 +76,7 @@ Use the standard format:
 As a [role],  
 I want to [action/goal],  
 So that [desired outcome].
-````
+```
 
 Example:
 
@@ -90,9 +90,9 @@ So that only authorized users can access sensitive data.
 
 Use bullet points or behavior-driven format:
 
-* ✅ User can select roles from a dropdown
-* ✅ Unauthorized access attempts are logged
-* ✅ System restricts views based on assigned roles
+- ✅ User can select roles from a dropdown
+- ✅ Unauthorized access attempts are logged
+- ✅ System restricts views based on assigned roles
 
 Or use Gherkin-style:
 
@@ -104,9 +104,9 @@ Then they see an "Access Denied" message
 
 ### 3. Review with Team
 
-* Confirm clarity, feasibility, and testability
-* Link to design mocks, user flows, or relevant documentation
-* Update based on team feedback before marking ready-for-dev
+- Confirm clarity, feasibility, and testability
+- Link to design mocks, user flows, or relevant documentation
+- Update based on team feedback before marking ready-for-dev
 
 ---
 
@@ -134,9 +134,9 @@ So that I can regain account access securely.
 
 **Acceptance Criteria**
 
-* User receives a reset email within 2 minutes
-* Link expires after 24 hours
-* Must include captcha to prevent abuse
+- User receives a reset email within 2 minutes
+- Link expires after 24 hours
+- Must include captcha to prevent abuse
 
 ---
 
@@ -162,18 +162,18 @@ So that I can regain account access securely.
 
 ### ✅ Do
 
-* Focus on one action per story
-* Use real roles (not "the system")
-* Validate acceptance criteria with QA
-* Link to mockups or data models if needed
-* Keep language accessible—avoid jargon
+- Focus on one action per story
+- Use real roles (not "the system")
+- Validate acceptance criteria with QA
+- Link to mockups or data models if needed
+- Keep language accessible—avoid jargon
 
 ### ❌ Don’t
 
-* Include backend-only requirements here (track in technical tasks)
-* Write stories that bundle multiple outcomes
-* Use unclear verbs like “improve,” “optimize,” “support”
-* Skip user benefit or business value
+- Include backend-only requirements here (track in technical tasks)
+- Write stories that bundle multiple outcomes
+- Use unclear verbs like “improve,” “optimize,” “support”
+- Skip user benefit or business value
 
 ---
 
@@ -222,11 +222,11 @@ So that I can regain account access securely.
 
 ## Resources & References
 
-* [Agile Alliance – User Stories](https://www.agilealliance.org/agile101/user-stories/)
-* [Scrum Guide](https://scrumguides.org/scrum-guide.html)
-* [Story Mapping Playbook](./user-story-mapping-guide.md)
-* [Acceptance Criteria Guide](./acceptance-criteria-reference.md)
-* [Ready-for-Dev Checklist](./ready-for-development-checklist.md)
+- [Agile Alliance – User Stories](https://www.agilealliance.org/agile101/user-stories/)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)
+- [Story Mapping Playbook](./user-story-mapping-guide.md)
+- [Acceptance Criteria Guide](./acceptance-criteria-reference.md)
+- [Ready-for-Dev Checklist](./ready-for-development-checklist.md)
 
 ---
 

@@ -1,0 +1,13 @@
+# Ignore dependency directories
+node_modules/
+.env/
+.venv/
+venv/
+env/
+
+# Ignore build and output directories
+build/
+dist/
+coverage/
+site/
+public/

@@ -133,6 +133,7 @@ It complements epics, user stories, and release boards.
 ### ✅ MVP-focused Story Slice
 
 **Activity**: “Purchase Product”  
+
 - As a guest user, I want to add an item to cart  
 - As a guest, I want to checkout using a single payment method  
 - As a user, I want to receive an order confirmation
@@ -223,11 +224,11 @@ It complements epics, user stories, and release boards.
 
 ## Resources & References
 
-* [Jeff Patton – User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)  
-* [Miro/Mural Story Map Templates](https://miro.com/templates/user-story-map/)  
-* [Persona Mapping Guide](./persona-journey-reference.md)  
-* [Ready-for-Dev Checklist](./ready-for-development-checklist.md)  
-* [Story Prioritization Matrix](./story-prioritization-guide.md)
+- [Jeff Patton – User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)  
+- [Miro/Mural Story Map Templates](https://miro.com/templates/user-story-map/)  
+- [Persona Mapping Guide](./persona-journey-reference.md)  
+- [Ready-for-Dev Checklist](./ready-for-development-checklist.md)  
+- [Story Prioritization Matrix](./story-prioritization-guide.md)
 
 ---
 

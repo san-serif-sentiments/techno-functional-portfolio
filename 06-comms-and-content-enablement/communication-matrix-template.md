@@ -51,10 +51,12 @@ It transforms messaging into a strategic layer of operational success.
 ### Scope
 
 Applies to:
+
 - Internal programs, policy launches, product rollouts, process updates
 - Departmental or enterprise-level change initiatives
 
 Not intended for:
+
 - External PR campaigns or one-off tactical communications
 
 ---
@@ -90,7 +92,7 @@ Examples:
 - Ensure 95% onboarding completion by [Date]
 - Reduce policy-related support tickets by 40%
 - Inform frontline teams of tool deprecation before [Go-live]
-````
+```
 
 ---
 
@@ -98,10 +100,10 @@ Examples:
 
 Group recipients by:
 
-* Impact tier (high, medium, low)
-* Function (Exec, Team Lead, Staff)
-* Region or language
-* Channel familiarity (Slack, intranet, email, etc.)
+- Impact tier (high, medium, low)
+- Function (Exec, Team Lead, Staff)
+- Region or language
+- Channel familiarity (Slack, intranet, email, etc.)
 
 ---
 
@@ -133,9 +135,9 @@ Choose based on urgency and visibility:
 
 Each item in your matrix should include:
 
-* Content creator
-* Channel publisher
-* Final approver (e.g., Legal, HR, Sponsor)
+- Content creator
+- Channel publisher
+- Final approver (e.g., Legal, HR, Sponsor)
 
 ---
 
@@ -189,11 +191,11 @@ Use the editable table format below.
 
 ## Tips & Best Practices
 
-* Use consistent formatting for channel cadence (e.g., every Friday 3PM)
-* Time messages with key milestones or system changes
-* Include escalation paths for failed or delayed comms
-* Log message versions and attachments for reuse or audits
-* Regularly validate audience groups with department leads
+- Use consistent formatting for channel cadence (e.g., every Friday 3PM)
+- Time messages with key milestones or system changes
+- Include escalation paths for failed or delayed comms
+- Log message versions and attachments for reuse or audits
+- Regularly validate audience groups with department leads
 
 ---
 
@@ -212,10 +214,10 @@ Use the editable table format below.
 
 ### Key Dependencies
 
-* Stakeholder engagement guide
-* Comms calendar from project plan
-* Finalized core messaging from change sponsor
-* Available comms tools and distribution lists
+- Stakeholder engagement guide
+- Comms calendar from project plan
+- Finalized core messaging from change sponsor
+- Available comms tools and distribution lists
 
 ### Risks
 
@@ -241,12 +243,12 @@ Use the editable table format below.
 
 ## Resources & References
 
-* [Stakeholder Engagement Guide](./stakeholder-engagement-guide.md)
-* [Change Readiness Toolkit](./change-readiness-assessment.md)
-* [Policy Comms Template](./policy-update-notification.md)
-* [Internal Newsletter Planning Guide](./internal-newsletter-guide.md)
-* [Prosci ADKAR® Framework](https://www.prosci.com/adkar)
-* [PMI Communications Planning](https://www.pmi.org/pmbok-guide-standards)
+- [Stakeholder Engagement Guide](./stakeholder-engagement-guide.md)
+- [Change Readiness Toolkit](./change-readiness-assessment.md)
+- [Policy Comms Template](./policy-update-notification.md)
+- [Internal Newsletter Planning Guide](./internal-newsletter-guide.md)
+- [Prosci ADKAR® Framework](https://www.prosci.com/adkar)
+- [PMI Communications Planning](https://www.pmi.org/pmbok-guide-standards)
 
 ---
 

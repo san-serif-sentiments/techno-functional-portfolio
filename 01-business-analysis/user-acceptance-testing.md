@@ -144,7 +144,7 @@ Invoice status changes to “Approved”; confirmation message appears.
 
 Status: ✅ Pass  
 Tester: @ashwin.finance
-````
+```
 
 ### ❌ Bad Example
 
@@ -168,18 +168,18 @@ Tester: @ashwin.finance
 
 ### ✅ Do
 
-* Use spreadsheets or UAT tools like TestRail or Zephyr
-* Assign owners for each test case
-* Tag defects with severity and feature module
-* Record feedback that’s not a bug (usability suggestions)
-* Conduct daily syncs to track progress and unblock testers
+- Use spreadsheets or UAT tools like TestRail or Zephyr
+- Assign owners for each test case
+- Tag defects with severity and feature module
+- Record feedback that’s not a bug (usability suggestions)
+- Conduct daily syncs to track progress and unblock testers
 
 ### ❌ Don’t
 
-* Use production environment for UAT
-* Let testers “figure it out”—provide scripts
-* Skip sign-off due to time pressure
-* Log bugs in chat tools—use issue trackers
+- Use production environment for UAT
+- Let testers “figure it out”—provide scripts
+- Skip sign-off due to time pressure
+- Log bugs in chat tools—use issue trackers
 
 ---
 
@@ -228,11 +228,11 @@ Tester: @ashwin.finance
 
 ## Resources & References
 
-* [UAT Planning Checklist](./uat-planning-checklist.md)
-* [Sample UAT Test Script Template](./uat-test-script-template.md)
-* [Defect Tracker Log](./uat-defect-log.xlsx)
-* [Business Sign-Off Form](./uat-signoff-form.pdf)
-* [Internal UAT Tool Guide](./uat-tooling-guide.md)
+- [UAT Planning Checklist](./uat-planning-checklist.md)
+- [Sample UAT Test Script Template](./uat-test-script-template.md)
+- [Defect Tracker Log](./uat-defect-log.xlsx)
+- [Business Sign-Off Form](./uat-signoff-form.pdf)
+- [Internal UAT Tool Guide](./uat-tooling-guide.md)
 
 ---
 

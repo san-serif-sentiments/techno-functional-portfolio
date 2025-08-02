@@ -1,9 +1,11 @@
 # AGENTS.md – CI/CD Automation Standards
 
 ## 📌 General Instructions
+
 - Clear, structured language explicitly targeting DevOps & automation teams.
 
 ## 🗂️ Required Structure
+
 1. Automation Workflow Overview
 2. Importance & CI/CD Benefits
 3. Target Audience (DevOps, Developers)
@@ -20,20 +22,24 @@
 14. Last Reviewed / Updated
 
 ## ⚙️ Formatting Rules
+
 - Explicit markdown structure for CI/CD tasks.
 - Clear command examples and configurations.
 
 ## 🚩 Commit & PR Guidelines
+
 - Clear automation improvements explicitly stated.
 - Confirm security standards adherence explicitly.
 
 ## 🔐 Security & Compliance
+
 - Clearly documented automated workflow security recommendations.
 
 ## 📊 Validation Checks
+
 - Explicit markdownlint validation.
 - Confirm automation workflow testing clearly.
 
 ## 🔄 Review Cycle
-- Reviewed quarterly or with significant workflow changes.
 
+- Reviewed quarterly or with significant workflow changes.

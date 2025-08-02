@@ -133,7 +133,7 @@ Before initiating business analysis tasks:
 As a hiring manager,  
 I want to receive alerts when candidate documents are incomplete,  
 So that I can take immediate action and reduce onboarding delays.
-````
+```
 
 ### ❌ Bad Example: Vague Requirement
 
@@ -157,17 +157,17 @@ So that I can take immediate action and reduce onboarding delays.
 
 ### ✅ Do
 
-* Visualize workflows wherever possible
-* Use structured frameworks (e.g., SIPOC, SWOT, 5 Whys)
-* Validate findings iteratively with stakeholders
-* Maintain a glossary of recurring terms
+- Visualize workflows wherever possible
+- Use structured frameworks (e.g., SIPOC, SWOT, 5 Whys)
+- Validate findings iteratively with stakeholders
+- Maintain a glossary of recurring terms
 
 ### ❌ Don’t
 
-* Assume stakeholder clarity on business goals
-* Use technical language in business-facing docs
-* Delay signoffs indefinitely—set validation timelines
-* Skip user-facing validation before documentation handoff
+- Assume stakeholder clarity on business goals
+- Use technical language in business-facing docs
+- Delay signoffs indefinitely—set validation timelines
+- Skip user-facing validation before documentation handoff
 
 ---
 
@@ -218,11 +218,11 @@ So that I can take immediate action and reduce onboarding delays.
 
 ## Resources & References
 
-* [Gap Analysis Framework](./gap-analysis-framework.md)
-* [User Story Writing Guide](./user-stories-guide.md)
-* [Business Requirements Template](./templates/brd-template.md)
-* [Stakeholder Interview Template](./templates/stakeholder-interview.md)
-* [Process Mapping Reference (BPMN)](./visual-tools/bpmn-basics.md)
+- [Gap Analysis Framework](./gap-analysis-framework.md)
+- [User Story Writing Guide](./user-stories-guide.md)
+- [Business Requirements Template](./templates/brd-template.md)
+- [Stakeholder Interview Template](./templates/stakeholder-interview.md)
+- [Process Mapping Reference (BPMN)](./visual-tools/bpmn-basics.md)
 
 ---
 
@@ -232,4 +232,3 @@ So that I can take immediate action and reduce onboarding delays.
 **Maintainer:** Shailesh Rawat (PoeticMayhem)
 **Version:** v1.0
 **Status:** ✅ Stable
-
